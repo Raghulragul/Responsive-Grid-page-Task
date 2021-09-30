@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+.card{
+    width: 404px;
+    margin: 20px;
+    border: 1px solid rgb(190, 183, 183);
+    border-width: 2px;
+}
+.bt3{
+    color: white;
+    background-color: rgb(9, 218, 9);
+    border: none;
+    padding: 10px;
+    text-align: center;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    font-size: medium;
+}
+.price{
+    display: inline;
+    margin-left: 10px;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.br{
+    padding: 10px;
+}
+img{
+    width: 400px;
+    height: 250px;
+}
+
+
+
+
+
+
+
